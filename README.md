@@ -1,4 +1,4 @@
-# wfrp4e-liber-etcetera
+# wfrp4e – Liber Etcetera
 Liber Etcetera is a collection of unofficial fan supplements for Warhammer Fantasy Roleplay 4th Edition, which seek to expand the rules into new grim and perilous directions!  A collection by Ben "Bee" Scerri, Red World Press (@Ben_Scerri on Twitter).
 
 Beginning with...
