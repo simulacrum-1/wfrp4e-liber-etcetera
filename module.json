@@ -1,0 +1,42 @@
+{   
+   "name": "wfrp4e-liber-etcetera",   
+   "title": "WFRP4e – Liber Etcetera",   
+   "description": "Liber Etcetera is a collection of unofficial fan supplements for Warhammer Fantasy Roleplay 4th Edition, which seek to expand the rules into new grim and perilous directions!",   
+   "author": "Ben Scerri",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.8.6",
+   "compatibleCoreVersion": "9",
+   "packs": [
+    {
+      "name": "items-idle-hands",
+      "label": "Items (Liber Etcetera: Idle Hands)",
+      "path": "packs/idle-hands-items.db",
+      "entity": "Item",
+      "module": "wfrp4e-liber-etcetera"
+    },
+    {
+      "name": "journalentries-idle-hands",
+      "label": "Journal Entries (Liber Etcetera: Idle Hands)",
+      "path": "packs/idle-hands-journalentries.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-liber-etcetera"
+    },
+    {
+      "name": "macros-idle-hands",
+      "label": "Macros (Liber Etcetera: Idle Hands)",
+      "path": "packs/idle-hands-macros.db",
+      "entity": "Macro",
+      "module": "wfrp4e-liber-etcetera"
+    },
+    {
+      "name": "rolltables-idle-hands",
+      "label": "Roll Tables (Liber Etcetera: Idle Hands)",
+      "path": "packs/idle-hands-tables.db",
+      "entity": "RollTable",
+      "module": "wfrp4e-liber-etcetera"
+    }
+  ],
+  "url": "https://github.com/simulacrum-1/wfrp4e-liber-etcetera",
+  "manifest": "https://github.com/simulacrum-1/wfrp4e-liber-etcetera/releases/download/1.0.0/module.json",
+  "download": "https://github.com/simulacrum-1/wfrp4e-liber-etcetera/releases/download/1.0.0/wfrp4e-liber-etcetera.zip"
+ }
