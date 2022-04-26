@@ -1,3 +1,4 @@
+# wfrp4e-liber-etcetera
 Liber Etcetera is a collection of unofficial fan supplements for Warhammer Fantasy Roleplay 4th Edition, which seek to expand the rules into new grim and perilous directions!  A collection by Ben "Bee" Scerri, Red World Press (@Ben_Scerri on Twitter).
 
 Beginning with...
@@ -7,4 +8,3 @@ These Downtime rules are intended to replace the Between Adventures rules in War
 Note, these rules specifically don’t make use of the Money to Burn rule in the original Between Adventures, as they were created for a campaign style in which that doesn’t quite make sense. As such, these rules were born to act as a money sink, an impetus to adventure, and a looming threat of disease and class-struggle!
 
 For more like this, go to https://redworldpress.itch.io/.# wfrp4e-liber-etcetera
-# wfrp4e-liber-etcetera
