@@ -12,6 +12,7 @@
       "label": "Items (Liber Etcetera: Idle Hands)",
       "path": "packs/idle-hands-items.db",
       "entity": "Item",
+      "system": "wfrp4e",
       "module": "wfrp4e-liber-etcetera"
     },
     {
